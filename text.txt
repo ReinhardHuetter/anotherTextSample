@@ -1,2 +1,6 @@
+<<<<<<< HEAD
+neuer text 
+=======
 der text wurde geändert,
 jetzt sollte ein merge conflict entstehen
+>>>>>>> master
