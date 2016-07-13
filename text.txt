@@ -1,2 +1,3 @@
-der text wurde ge�ndert,
+der text wurde geändert,
 die zweite zeile wurde ersetzt
+die dritte zeile wurde geändert
