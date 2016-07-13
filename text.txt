@@ -1,3 +1,4 @@
-der text wurde geändert,
+﻿der text wurde geändert,
 die zweite zeile wurde ersetzt
 die dritte zeile wurde geändert
+die vierte zele wurde geändert
