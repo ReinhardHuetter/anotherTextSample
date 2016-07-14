@@ -2,4 +2,4 @@
 die zweite zeile wurde ersetzt
 die dritte zeile wurde geändert
 die vierte zele wurde geändert
-die fünfte zeile wurde geändert
+eine neue fünfte zeile
